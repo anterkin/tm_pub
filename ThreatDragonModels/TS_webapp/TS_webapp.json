@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "TS_webapp",
+    "owner": "Maksim",
+    "description": "Модель для тестирования вебприложения."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
